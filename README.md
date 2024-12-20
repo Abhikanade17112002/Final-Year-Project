@@ -1,4 +1,4 @@
-# Internship Pilot 🚀
+# Internship Pilot 🚀🚀🚀🚀
 ## An Internship Management System built with MERN Stack
 
 ### Overview
